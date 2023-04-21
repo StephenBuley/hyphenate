@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+echo "here from bash"
 # create file
 touch temp.txt
 

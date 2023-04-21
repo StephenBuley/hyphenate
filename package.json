@@ -1,0 +1,23 @@
+{
+  "name": "hyphenate",
+  "version": "1.0.0",
+  "description": "This quick command line script hyphenates a folder or file name for easier time using the command line.",
+  "main": "./bin/hyphenate.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenBuley/hyphenate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenBuley/hyphenate/issues"
+  },
+  "homepage": "https://github.com/StephenBuley/hyphenate#readme",
+  "bin": {
+    "hyphenate": "./bin/hyphenate.sh"
+  }
+}
